@@ -19,7 +19,6 @@
 	
 	<!-- Preferences -->
 	
+	<preference name="orientation" value="portrait" />
 	
 </widget>
-
-<preference name="orientation" value="landscape" />
