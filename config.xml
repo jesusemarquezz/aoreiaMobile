@@ -20,5 +20,6 @@
 	<!-- Preferences -->
 	
 	<preference name="orientation" value="landscape" />
+	<preference name="stay-in-webview" value="true" /> 
 	
 </widget>
